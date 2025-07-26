@@ -40,6 +40,7 @@ html::-webkit-scrollbar-track {
 html::-webkit-scrollbar-thumb {
     height: auto;
     background-color: var(--white-color);
+    border-radius: 5rem;
 }
 
 section {
