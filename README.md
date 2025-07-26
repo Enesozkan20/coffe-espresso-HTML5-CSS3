@@ -19,7 +19,7 @@ A modern coffee shop website featuring **responsive design** with a mobile menu 
   - Coffee-themed color palette
   - Product showcase grid
   - Animated hover effects
-  - 
+
 ## 🛠️ Technologies Used
 | Technology | Usage |
 |------------|-------|
